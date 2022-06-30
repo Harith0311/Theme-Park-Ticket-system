@@ -1,0 +1,455 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+19 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20220628014435+00'00')
+/ModDate (D:20220628014435+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 11 0 R 13 0 R 15 0 R 17 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 11408 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 768.985 Td /F1 24.0 Tf  [(Theme Park Ticket Generator)] TJ ET
+BT 34.016 735.797 Td /F2 12.0 Tf  [(During this 21st century, the main purpose of every amusement park, theme park, water park, or family fun )] TJ ET
+BT 34.016 721.541 Td /F2 12.0 Tf  [(center is to have a good time. As we know, there are some popular theme parks in our country like )] TJ ET
+BT 34.016 707.285 Td /F2 12.0 Tf  [(LEGOLAND Malaysia, Sunway Lagoon, Berjaya Times Square Theme Park, ESCAPE Penang and many )] TJ ET
+BT 34.016 693.029 Td /F2 12.0 Tf  [(more that people visit to go to enjoy themselves whether with their friends or family members. Dealing with )] TJ ET
+BT 34.016 678.773 Td /F2 12.0 Tf  [(a ticketing system that is not up to par, on the other hand, can be problematic.)] TJ ET
+BT 34.016 652.517 Td /F2 12.0 Tf  [(Therefore, this project has been conducted to determine the needs to develop an efficient theme park ticket )] TJ ET
+BT 34.016 638.261 Td /F2 12.0 Tf  [(generator, to determine the most suitable method to be used to develop the theme park ticket generator and )] TJ ET
+BT 34.016 624.005 Td /F2 12.0 Tf  [(to briefly express the ideas on how the ticket generator can be used at any theme park intelligently.)] TJ ET
+BT 34.016 589.107 Td /F1 18.0 Tf  [(Features)] TJ ET
+0.000 0.000 0.000 RG
+57.816 561.590 m 
+57.816 562.140 57.589 562.686 57.201 563.075 c
+56.812 563.464 56.266 563.690 55.716 563.690 c
+55.166 563.690 54.620 563.464 54.231 563.075 c
+53.842 562.686 53.616 562.140 53.616 561.590 c
+53.616 561.040 53.842 560.494 54.231 560.105 c
+54.620 559.717 55.166 559.490 55.716 559.490 c
+56.266 559.490 56.812 559.717 57.201 560.105 c
+57.589 560.494 57.816 561.040 57.816 561.590 c f
+BT 64.016 558.485 Td /F2 12.0 Tf  [(Visitor can enter the name and the number of adult ticket and children ticket)] TJ ET
+57.816 547.334 m 
+57.816 547.884 57.589 548.430 57.201 548.819 c
+56.812 549.208 56.266 549.434 55.716 549.434 c
+55.166 549.434 54.620 549.208 54.231 548.819 c
+53.842 548.430 53.616 547.884 53.616 547.334 c
+53.616 546.784 53.842 546.238 54.231 545.849 c
+54.620 545.461 55.166 545.234 55.716 545.234 c
+56.266 545.234 56.812 545.461 57.201 545.849 c
+57.589 546.238 57.816 546.784 57.816 547.334 c f
+BT 64.016 544.229 Td /F2 12.0 Tf  [(Visitor can see the price of the single ticket and the total amount of purchased ticket\(s\))] TJ ET
+57.816 533.078 m 
+57.816 533.628 57.589 534.174 57.201 534.563 c
+56.812 534.952 56.266 535.178 55.716 535.178 c
+55.166 535.178 54.620 534.952 54.231 534.563 c
+53.842 534.174 53.616 533.628 53.616 533.078 c
+53.616 532.528 53.842 531.982 54.231 531.593 c
+54.620 531.205 55.166 530.978 55.716 530.978 c
+56.266 530.978 56.812 531.205 57.201 531.593 c
+57.589 531.982 57.816 532.528 57.816 533.078 c f
+BT 64.016 529.973 Td /F2 12.0 Tf  [(Visitor can view the preview of the ticket before it can be printed)] TJ ET
+57.816 518.822 m 
+57.816 519.372 57.589 519.918 57.201 520.307 c
+56.812 520.696 56.266 520.922 55.716 520.922 c
+55.166 520.922 54.620 520.696 54.231 520.307 c
+53.842 519.918 53.616 519.372 53.616 518.822 c
+53.616 518.272 53.842 517.726 54.231 517.337 c
+54.620 516.949 55.166 516.722 55.716 516.722 c
+56.266 516.722 56.812 516.949 57.201 517.337 c
+57.589 517.726 57.816 518.272 57.816 518.822 c f
+BT 64.016 515.717 Td /F2 12.0 Tf  [(The ticket can be printed once the visitor pay the ticket \(pretend it can be printed, because the print )] TJ ET
+BT 64.016 501.461 Td /F2 12.0 Tf  [(feature is not our main purposes of the project\))] TJ ET
+BT 34.016 466.563 Td /F1 18.0 Tf  [(Installation)] TJ ET
+BT 34.016 435.941 Td /F2 12.0 Tf  [(To install and use this system, kindly download the zip folder \(themeparkticket.zip\) and this system is ready )] TJ ET
+BT 34.016 421.685 Td /F2 12.0 Tf  [(to run and test.)] TJ ET
+BT 34.016 386.787 Td /F1 18.0 Tf  [(Run Locally)] TJ ET
+57.816 359.270 m 
+57.816 359.820 57.589 360.366 57.201 360.755 c
+56.812 361.144 56.266 361.370 55.716 361.370 c
+55.166 361.370 54.620 361.144 54.231 360.755 c
+53.842 360.366 53.616 359.820 53.616 359.270 c
+53.616 358.720 53.842 358.174 54.231 357.785 c
+54.620 357.397 55.166 357.170 55.716 357.170 c
+56.266 357.170 56.812 357.397 57.201 357.785 c
+57.589 358.174 57.816 358.720 57.816 359.270 c f
+BT 64.016 356.165 Td /F2 12.0 Tf  [(Firstly, you need to have )] TJ ET
+0.000 0.000 0.800 rg
+BT 186.008 356.165 Td /F2 12.0 Tf  [(JDK)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+186.008 353.465 m 208.004 353.465 l S
+0.000 0.000 0.000 rg
+BT 208.004 356.165 Td /F2 12.0 Tf  [( installed in your local machine. Preferred to use JDK with version 18 or )] TJ ET
+BT 64.016 341.909 Td /F2 12.0 Tf  [(above.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 330.758 m 
+57.816 331.308 57.589 331.854 57.201 332.243 c
+56.812 332.632 56.266 332.858 55.716 332.858 c
+55.166 332.858 54.620 332.632 54.231 332.243 c
+53.842 331.854 53.616 331.308 53.616 330.758 c
+53.616 330.208 53.842 329.662 54.231 329.273 c
+54.620 328.885 55.166 328.658 55.716 328.658 c
+56.266 328.658 56.812 328.885 57.201 329.273 c
+57.589 329.662 57.816 330.208 57.816 330.758 c f
+BT 64.016 327.653 Td /F2 12.0 Tf  [(You need to have MySQL database server. Please use MySQL that come with )] TJ ET
+0.000 0.000 0.800 rg
+BT 442.616 327.653 Td /F2 12.0 Tf  [(XAMPP)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+442.616 324.953 m 483.956 324.953 l S
+0.000 0.000 0.000 rg
+BT 483.956 327.653 Td /F2 12.0 Tf  [(. Otherwise, )] TJ ET
+BT 64.016 313.397 Td /F2 12.0 Tf  [(please refer next section below if you want to use )] TJ ET
+0.000 0.000 0.800 rg
+BT 304.628 313.397 Td /F2 12.0 Tf  [(standalone MySQL)] TJ ET
+0.6 w 0 J [  ] 0 d
+304.628 310.697 m 398.288 310.697 l S
+0.000 0.000 0.000 rg
+BT 398.288 313.397 Td /F2 12.0 Tf  [(.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 302.246 m 
+57.816 302.796 57.589 303.342 57.201 303.731 c
+56.812 304.120 56.266 304.346 55.716 304.346 c
+55.166 304.346 54.620 304.120 54.231 303.731 c
+53.842 303.342 53.616 302.796 53.616 302.246 c
+53.616 301.696 53.842 301.150 54.231 300.761 c
+54.620 300.373 55.166 300.146 55.716 300.146 c
+56.266 300.146 56.812 300.373 57.201 300.761 c
+57.589 301.150 57.816 301.696 57.816 302.246 c f
+BT 64.016 299.141 Td /F2 12.0 Tf  [(Please make sure that MySQL is started/opened. If not the system will not run correctly.)] TJ ET
+57.816 287.990 m 
+57.816 288.540 57.589 289.086 57.201 289.475 c
+56.812 289.864 56.266 290.090 55.716 290.090 c
+55.166 290.090 54.620 289.864 54.231 289.475 c
+53.842 289.086 53.616 288.540 53.616 287.990 c
+53.616 287.440 53.842 286.894 54.231 286.505 c
+54.620 286.117 55.166 285.890 55.716 285.890 c
+56.266 285.890 56.812 286.117 57.201 286.505 c
+57.589 286.894 57.816 287.440 57.816 287.990 c f
+BT 64.016 284.885 Td /F2 12.0 Tf  [(Extract the themeparkticket.zip and open the Theme Park Ticket folder inside themeparkticket after )] TJ ET
+BT 64.016 270.629 Td /F2 12.0 Tf  [(extraction.)] TJ ET
+57.816 259.478 m 
+57.816 260.028 57.589 260.574 57.201 260.963 c
+56.812 261.352 56.266 261.578 55.716 261.578 c
+55.166 261.578 54.620 261.352 54.231 260.963 c
+53.842 260.574 53.616 260.028 53.616 259.478 c
+53.616 258.928 53.842 258.382 54.231 257.993 c
+54.620 257.605 55.166 257.378 55.716 257.378 c
+56.266 257.378 56.812 257.605 57.201 257.993 c
+57.589 258.382 57.816 258.928 57.816 259.478 c f
+BT 64.016 256.373 Td /F2 12.0 Tf  [(Open the terminal or command line, make sure that the current directory is Theme Park Ticket folder.)] TJ ET
+57.816 245.222 m 
+57.816 245.772 57.589 246.318 57.201 246.707 c
+56.812 247.096 56.266 247.322 55.716 247.322 c
+55.166 247.322 54.620 247.096 54.231 246.707 c
+53.842 246.318 53.616 245.772 53.616 245.222 c
+53.616 244.672 53.842 244.126 54.231 243.737 c
+54.620 243.349 55.166 243.122 55.716 243.122 c
+56.266 243.122 56.812 243.349 57.201 243.737 c
+57.589 244.126 57.816 244.672 57.816 245.222 c f
+BT 64.016 242.117 Td /F2 12.0 Tf  [(Inside the terminal, type )] TJ ET
+BT 183.668 242.117 Td /F3 12.0 Tf  [(java --enable-preview -jar "Theme Park Ticket.jar")] TJ ET
+57.816 230.966 m 
+57.816 231.516 57.589 232.062 57.201 232.451 c
+56.812 232.840 56.266 233.066 55.716 233.066 c
+55.166 233.066 54.620 232.840 54.231 232.451 c
+53.842 232.062 53.616 231.516 53.616 230.966 c
+53.616 230.416 53.842 229.870 54.231 229.481 c
+54.620 229.093 55.166 228.866 55.716 228.866 c
+56.266 228.866 56.812 229.093 57.201 229.481 c
+57.589 229.870 57.816 230.416 57.816 230.966 c f
+BT 64.016 227.861 Td /F2 12.0 Tf  [(Then, the system can be executed successsfully.)] TJ ET
+BT 34.016 192.963 Td /F1 18.0 Tf  [(Run with standalone MySQL database server)] TJ ET
+57.816 165.446 m 
+57.816 165.996 57.589 166.542 57.201 166.931 c
+56.812 167.320 56.266 167.546 55.716 167.546 c
+55.166 167.546 54.620 167.320 54.231 166.931 c
+53.842 166.542 53.616 165.996 53.616 165.446 c
+53.616 164.896 53.842 164.350 54.231 163.961 c
+54.620 163.573 55.166 163.346 55.716 163.346 c
+56.266 163.346 56.812 163.573 57.201 163.961 c
+57.589 164.350 57.816 164.896 57.816 165.446 c f
+BT 64.016 162.341 Td /F2 12.0 Tf  [(MySQL database server would ask the user about the username and password. So it will be different )] TJ ET
+BT 64.016 148.085 Td /F2 12.0 Tf  [(from our original source code that use 'root' as the username and empty string or '' as the password. By )] TJ ET
+BT 64.016 133.829 Td /F2 12.0 Tf  [(default, this is the username and password for the MySQL in XAMPP.)] TJ ET
+57.816 122.678 m 
+57.816 123.228 57.589 123.774 57.201 124.163 c
+56.812 124.552 56.266 124.778 55.716 124.778 c
+55.166 124.778 54.620 124.552 54.231 124.163 c
+53.842 123.774 53.616 123.228 53.616 122.678 c
+53.616 122.128 53.842 121.582 54.231 121.193 c
+54.620 120.805 55.166 120.578 55.716 120.578 c
+56.266 120.578 56.812 120.805 57.201 121.193 c
+57.589 121.582 57.816 122.128 57.816 122.678 c f
+BT 64.016 119.573 Td /F2 12.0 Tf  [(This system is fully developed in )] TJ ET
+0.000 0.000 0.800 rg
+BT 226.016 119.573 Td /F2 12.0 Tf  [(Visual Studio Code)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+226.016 116.873 m 320.024 116.873 l S
+0.000 0.000 0.000 rg
+BT 320.024 119.573 Td /F2 12.0 Tf  [( as an IDE \(Integrated Development )] TJ ET
+BT 64.016 105.317 Td /F2 12.0 Tf  [(Environment\). Hence, you must have downloaded Visual Studio Code in your machine.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 94.166 m 
+57.816 94.716 57.589 95.262 57.201 95.651 c
+56.812 96.040 56.266 96.266 55.716 96.266 c
+55.166 96.266 54.620 96.040 54.231 95.651 c
+53.842 95.262 53.616 94.716 53.616 94.166 c
+53.616 93.616 53.842 93.070 54.231 92.681 c
+54.620 92.293 55.166 92.066 55.716 92.066 c
+56.266 92.066 56.812 92.293 57.201 92.681 c
+57.589 93.070 57.816 93.616 57.816 94.166 c f
+BT 64.016 91.061 Td /F2 12.0 Tf  [(Open the Visual Studio Code, in the left side bar, click extensions tab and find the 'Extension Pack for )] TJ ET
+BT 64.016 76.805 Td /F2 12.0 Tf  [(Java' provided by Microsoft. Download that extension for Java development purposes.)] TJ ET
+57.816 65.654 m 
+57.816 66.204 57.589 66.750 57.201 67.139 c
+56.812 67.528 56.266 67.754 55.716 67.754 c
+55.166 67.754 54.620 67.528 54.231 67.139 c
+53.842 66.750 53.616 66.204 53.616 65.654 c
+53.616 65.104 53.842 64.558 54.231 64.169 c
+54.620 63.781 55.166 63.554 55.716 63.554 c
+56.266 63.554 56.812 63.781 57.201 64.169 c
+57.589 64.558 57.816 65.104 57.816 65.654 c f
+BT 64.016 62.549 Td /F2 12.0 Tf  [(After that, open the Visual Studio Code in the Theme Park Ticket folder. You can open it by click File )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 12 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 186.0077 355.0855 208.0037 366.9655 ]
+>>
+endobj
+12 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.oracle.com/java/technologies/downloads/)
+>>
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 442.6157 326.5735 483.9557 338.4535 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.apachefriends.org/download.html)
+>>
+endobj
+15 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 16 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 304.6277 312.3175 398.2877 324.1975 ]
+>>
+endobj
+16 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.mysql.com/downloads/)
+>>
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 226.0157 118.4935 320.0237 130.3735 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://code.visualstudio.com/)
+>>
+endobj
+19 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3888 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.6 w 0 J [  ] 0 d
+BT 64.016 796.469 Td /F2 12.0 Tf  [(> Open Folder at the top panel.)] TJ ET
+57.816 785.318 m 
+57.816 785.868 57.589 786.414 57.201 786.803 c
+56.812 787.192 56.266 787.418 55.716 787.418 c
+55.166 787.418 54.620 787.192 54.231 786.803 c
+53.842 786.414 53.616 785.868 53.616 785.318 c
+53.616 784.768 53.842 784.222 54.231 783.833 c
+54.620 783.445 55.166 783.218 55.716 783.218 c
+56.266 783.218 56.812 783.445 57.201 783.833 c
+57.589 784.222 57.816 784.768 57.816 785.318 c f
+BT 64.016 782.213 Td /F2 12.0 Tf  [(Open the MySQL.java and change the username and password of your MySQL database.)] TJ ET
+57.816 771.062 m 
+57.816 771.612 57.589 772.158 57.201 772.547 c
+56.812 772.936 56.266 773.162 55.716 773.162 c
+55.166 773.162 54.620 772.936 54.231 772.547 c
+53.842 772.158 53.616 771.612 53.616 771.062 c
+53.616 770.512 53.842 769.966 54.231 769.577 c
+54.620 769.189 55.166 768.962 55.716 768.962 c
+56.266 768.962 56.812 769.189 57.201 769.577 c
+57.589 769.966 57.816 770.512 57.816 771.062 c f
+BT 64.016 767.957 Td /F2 12.0 Tf  [(At the top panel, click View > Command Palette, type 'Java: Export Jar' and choose the correct one.)] TJ ET
+57.816 756.806 m 
+57.816 757.356 57.589 757.902 57.201 758.291 c
+56.812 758.680 56.266 758.906 55.716 758.906 c
+55.166 758.906 54.620 758.680 54.231 758.291 c
+53.842 757.902 53.616 757.356 53.616 756.806 c
+53.616 756.256 53.842 755.710 54.231 755.321 c
+54.620 754.933 55.166 754.706 55.716 754.706 c
+56.266 754.706 56.812 754.933 57.201 755.321 c
+57.589 755.710 57.816 756.256 57.816 756.806 c f
+BT 64.016 753.701 Td /F2 12.0 Tf  [(Select 'Main' and Select all elements and click 'Ok'.)] TJ ET
+57.816 742.550 m 
+57.816 743.100 57.589 743.646 57.201 744.035 c
+56.812 744.424 56.266 744.650 55.716 744.650 c
+55.166 744.650 54.620 744.424 54.231 744.035 c
+53.842 743.646 53.616 743.100 53.616 742.550 c
+53.616 742.000 53.842 741.454 54.231 741.065 c
+54.620 740.677 55.166 740.450 55.716 740.450 c
+56.266 740.450 56.812 740.677 57.201 741.065 c
+57.589 741.454 57.816 742.000 57.816 742.550 c f
+BT 64.016 739.445 Td /F2 12.0 Tf  [(The 'Theme Park Ticker.jar' successfully compiled. To run it, open the terminal or command line, )] TJ ET
+BT 64.016 725.189 Td /F2 12.0 Tf  [(make sure that the current directory is Theme Park Ticket folder.)] TJ ET
+57.816 714.038 m 
+57.816 714.588 57.589 715.134 57.201 715.523 c
+56.812 715.912 56.266 716.138 55.716 716.138 c
+55.166 716.138 54.620 715.912 54.231 715.523 c
+53.842 715.134 53.616 714.588 53.616 714.038 c
+53.616 713.488 53.842 712.942 54.231 712.553 c
+54.620 712.165 55.166 711.938 55.716 711.938 c
+56.266 711.938 56.812 712.165 57.201 712.553 c
+57.589 712.942 57.816 713.488 57.816 714.038 c f
+BT 64.016 710.933 Td /F2 12.0 Tf  [(Inside the terminal, type )] TJ ET
+BT 183.668 710.933 Td /F3 12.0 Tf  [(java --enable-preview -jar "Theme Park Ticket.jar")] TJ ET
+57.816 699.782 m 
+57.816 700.332 57.589 700.878 57.201 701.267 c
+56.812 701.656 56.266 701.882 55.716 701.882 c
+55.166 701.882 54.620 701.656 54.231 701.267 c
+53.842 700.878 53.616 700.332 53.616 699.782 c
+53.616 699.232 53.842 698.686 54.231 698.297 c
+54.620 697.909 55.166 697.682 55.716 697.682 c
+56.266 697.682 56.812 697.909 57.201 698.297 c
+57.589 698.686 57.816 699.232 57.816 699.782 c f
+BT 64.016 696.677 Td /F2 12.0 Tf  [(Then, the system can be executed successsfully.)] TJ ET
+BT 34.016 661.779 Td /F1 18.0 Tf  [(Lessons Learned)] TJ ET
+BT 34.016 631.157 Td /F2 12.0 Tf  [(Throughout this project, we have learn a lot more about the Object Oriented Features like object and classes )] TJ ET
+BT 34.016 616.901 Td /F2 12.0 Tf  [(and also about GUI components in Swing. When at the development process, we have faced a lot of )] TJ ET
+BT 34.016 602.645 Td /F2 12.0 Tf  [(problems and we decide to come out with communication and good discussion with all group members.)] TJ ET
+endstream
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000302 00000 n 
+0000000331 00000 n 
+0000000445 00000 n 
+0000000548 00000 n 
+0000012009 00000 n 
+0000012117 00000 n 
+0000012226 00000 n 
+0000012332 00000 n 
+0000012460 00000 n 
+0000012563 00000 n 
+0000012691 00000 n 
+0000012786 00000 n 
+0000012914 00000 n 
+0000012998 00000 n 
+0000013126 00000 n 
+0000013208 00000 n 
+0000013273 00000 n 
+trailer
+<<
+/Size 21
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+17214
+%%EOF
